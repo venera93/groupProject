@@ -1,5 +1,5 @@
 public class NewBranch {
     public static void main(String[] args) {
-        System.out.println("My NeW bRANCH");
+        System.out.println("My NeW bRANCH - changed by Venera2");
     }
 }
